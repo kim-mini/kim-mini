@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
 
+i'm mini
+
+---
+
+[![](https://img.shields.io/badge/-Tech%20Blog-green)](https://blog.naver.com/kimmin2_)
+[![kimminyi22@gmail.com](https://img.shields.io/badge/-G%20mail-red "kimminyi22@gmail.com")](kimminyi22@gmail.com)
 <!--
 **kim-mini/kim-mini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
