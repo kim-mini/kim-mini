@@ -2,6 +2,8 @@
 
 i'm mini
 
+- 🌱 I’m currently learning Image processing, Machine Learning, Deep Learning, data handling
+
 ---
 
 [![](https://img.shields.io/badge/-Tech%20Blog-green)](https://blog.naver.com/kimmin2_)
