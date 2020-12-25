@@ -6,8 +6,10 @@ i'm mini
 
 ---
 
-[![](https://img.shields.io/badge/-Tech%20Blog-green)](https://blog.naver.com/kimmin2_)
+<p align="center">
+<a href="https://blog.naver.com/kimmin2_"><img src="https://img.shields.io/badge/-Tech%20Blog-green"/></a>
 <a href="mailto: kimminyi22@gmail.com" title="mini's mail : kimminyi22@gmail.com"><img src="https://img.shields.io/badge/-G%20mail-red"></a>
+</p>
 
 <!--
 **kim-mini/kim-mini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
