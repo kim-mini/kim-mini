@@ -1,10 +1,11 @@
-### Hi there 👋 
+### 👋 열심히 코딩 중입니다
 
-i'm mini
+- 🌱 Image processing과 Computer vision을 공부하고 있습니다
 
-- 🌱 I’m currently learning Image processing, Machine Learning, Deep Learning, data handling
+- 🌱 데이터 전처리, 데이터 사이언스를 공부하고 있습니다
 
----
+- [개인 블로그](https://blog.naver.com/kimmin2_)에 공부하고 있는 것들이 정리 되어있습니다
+
 
 <p align="center">
 <a href="https://blog.naver.com/kimmin2_"><img src="https://img.shields.io/badge/-Tech%20Blog-green"/></a>
